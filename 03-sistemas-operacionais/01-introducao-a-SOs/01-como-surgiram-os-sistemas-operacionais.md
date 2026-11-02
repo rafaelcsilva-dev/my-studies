@@ -1,5 +1,7 @@
 # O que é um sistema operacional?
 
+**Autor:** dev.rafael &bull; **Publicado:** 30 de Outubro de 2026 &bull;
+
 Um sistema operacional é o [software](https://pt.wikipedia.org/wiki/Software) que controla e coordena os recursos de um computador. Em outras palavras, ele funciona como uma ponte entre o usuário, os programas e o [hardware](https://pt.wikipedia.org/wiki/Hardware). Quando falamos de sistemas operacionais, é fundamental entendermos aquilo que é anterior a eles e que dá sentido à sua existência: os computadores. Portanto, para entender o que é um sistema operacional, precisamos primeiro entender o que é e como funciona um computador.
 
 ## O que é um computador?

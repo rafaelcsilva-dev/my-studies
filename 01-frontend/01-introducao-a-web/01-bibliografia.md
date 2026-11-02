@@ -1,7 +1,3 @@
----
-title: "Bibliografia e Referências"
----
-
 # BIBLIOGRAFIA E REFERÊNCIAS
 
 ## DOCUMENTAÇÕES E MANUAIS

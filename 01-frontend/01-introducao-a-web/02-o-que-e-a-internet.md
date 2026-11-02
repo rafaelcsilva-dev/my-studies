@@ -1,6 +1,6 @@
 # Como a internet funciona?
 
-**Autor:** dev.rafael &bull; **Publicado:** 27 de Julho de 2026 &bull; **Leitura:** 10 min
+**Autor:** dev.rafael &bull; **Publicado:** 30 de Outubro de 2026 &bull;
 
 ## Como a internet surgiu?
 

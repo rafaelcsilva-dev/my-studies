@@ -1,5 +1,7 @@
 # Entendendo a Base da Web: HTML, CSS e JavaScript
 
+**Autor:** dev.rafael &bull; **Publicado:** 30 de Outubro de 2026 &bull;
+
 ## Como funcionam o HTML, o CSS e o JavaScript?
 
 A princípio, pode parecer estranho falar "a HTML" e "a CSS". Entretanto, esse é o uso gramaticalmente mais rigoroso, ainda que falar no masculino seja amplamente aceito no dia a dia. Como HTML e CSS são **linguagens**, a concordância refere-se à palavra "linguagem", por isso, _a_ HTML e _a_ CSS.
